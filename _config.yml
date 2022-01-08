@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "ChiwooSong Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "얕은 물길"
-description              : "얕은 지식을 기록하는 블로그입니다."
+name                     : "Chiwoo Song"
+description              : "넓고 얕은 지식"
 url                      : https://chiwoosong.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
